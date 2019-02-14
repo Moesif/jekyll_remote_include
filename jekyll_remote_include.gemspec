@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'jekyll_remote_include'
-  s.version = '0.1.5'
+  s.version = '0.1.6'
   s.summary = 'jekyll_remote_include'
   s.description = 'Import remote markdown from URLs like GitHub README.md into Jekyll'
   s.authors = ['Moesif, Inc', 'Derric Gilling']
